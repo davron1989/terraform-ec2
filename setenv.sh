@@ -58,7 +58,7 @@ fi
 if [ -z "$S3TFSTATEFILE" ]
 then
    echo "setenv: 's3_tfstate_file' variable not set in configuration file."
-   echo "e.g. s3_tfstate_file=\'infrastructure.tfstate\'"
+   echo "e.g. s3_tfstate_file=\"infrastructure.tfstate\""
 return 1
 fi
 
