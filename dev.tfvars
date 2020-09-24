@@ -1,0 +1,11 @@
+s3_bucket = "davron-jenkins.com"
+s3_folder_project = "terraform_vpc"
+s3_folder_region = "us-east-1"
+s3_folder_type = "class"
+s3_tfstate_file = "infrastructure.tfstate"
+environment = "dev"
+
+environment   = "dev"	
+region        = "us-east-1"	
+public_key    = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC8yIGE7v7lSYr5J0D5qBXHqNSEcPQkB5yGLEQmyzwH/smAkRzIH0iTGbDR0/ZYtWjGzLTW9TaHqosz0mbQUV97BKLONgW547L7NjTz4WNHKUD630e9kHsNn6ixzgBkxf7Bxbpo/hUl/LtAQvfDAc1xClpDOOFXxeKFso9QqN7ZqG83P1fMZDloWsoxqmVe77yUAhoU7WMOwC6el6nVv+GPGBoNjnLkXki04SP/R7jJ+LIarGtuCJP2WwIVayiLh/QBzyE71iep1eVn0yRj7muPMaEuF203CShpZ/XeNyDqY/HKdQOdv3EauHiFX7nIFu9p1Gmz/l3p9VpF7Ot23+XnxWE3hNHp1+XQnjCWqZzgHGhksaJpbJhWaGqoDnCffUpVGXWn/oEinyaQ2252Q3ANvBYxrPrmjIp0ivGOCAY/RIaPU7K297fLui7mkbWHe5tjbC7TdZ1MD+DV4jv9ocsLrPc3FgrK7SAouDYPTJi7G/7+93DePQbSYqVmmL7FHgE= Davron Normuradov@LAPTOP-QLAI00GC"	
+ami_id        = "ami-02eac2c0129f6376b"
